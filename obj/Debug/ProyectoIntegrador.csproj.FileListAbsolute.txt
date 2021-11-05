@@ -8,3 +8,13 @@ C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\Pr
 C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.CoreCompileInputs.cache
 C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.exe
 C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe.config
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Form1.resources
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.GenerateResource.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 18\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.pdb
